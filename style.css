@@ -1,0 +1,33 @@
+body {
+  background-color: pink;
+}
+
+/*section*/
+
+.div-1 {
+  position: relative;
+  left: 0px;
+}
+
+.div-3 {
+  position: relative;
+}
+
+.h2-div3 {
+  position: relative;
+  left: 840px;
+  bottom: 1000px;
+}
+
+.h3-div3 {
+  position: relative;
+  left: 840px;
+  bottom: 980px;
+}
+
+.andre-gay {
+  position: relative;
+  position: relative;
+  left: 840px;
+  bottom: 975px;
+}
